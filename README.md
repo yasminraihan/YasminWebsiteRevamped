@@ -96,3 +96,13 @@ npm install --save gatsby-plugin-web-font-loader
     },
 },
 ```
+
+# Some references for Git forking and Pulling
+
+https://help.github.com/en/github/using-git/changing-a-remotes-url
+
+https://opensource.com/article/19/7/create-pull-request-github
+
+https://stackoverflow.com/questions/17857283/permission-denied-error-on-github-push
+
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
